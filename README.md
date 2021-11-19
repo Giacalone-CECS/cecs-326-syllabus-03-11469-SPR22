@@ -4,17 +4,13 @@
 
 ### Spring 2022
 
-| Class Days | Time              | Room    |
-|------------|-------------------|---------|
-| Mon Wed    | 2:00 PM - 3:40 PM | VEC-220 |
+| Class Lecture | Time              | Room    |
+|---------------|-------------------|---------|
+| Mon Wed       | 2:00 PM - 3:40 PM | VEC-220 |
 
-**Instructor**: Anthony Giacalone
-
-**Email**: anthony.giacalone@csulb.edu  
-
-**Office Room**: ECS-526
-
-**Office Hours**: By appointment only/virtual office hours  
+| Instructor        | Email                       | Office  | Office Hours           |
+|-------------------|-----------------------------|---------|------------------------|
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-526 | 1:00 - 2:00 PM Mon Wed |
 
 #### Required Textbook
 
