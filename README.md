@@ -14,16 +14,16 @@
 
 #### Required Textbook
 
-* *Modern Operating Systems*, 4th edition, by Andrew Tanenbaum and Herbert Bos
+* [Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X), 4th edition, by Andrew Tanenbaum and Herbert Bos
 
 #### Optional Textbooks
 
-* *The C Programming Language*, 2nd edition, by Brian Kernighan and Dennis Ritchie
+* [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628), 2nd edition, by Brian Kernighan and Dennis Ritchie
 
 ##### And any one of the following
 
-* *Advanced Programming in the UNIX Environment*, 3rd edition, by W. Richard Stevens
-* *The Linux Programming Interface*, by Michael Kerrisk
+* [Advanced Programming in the UNIX Environment](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739), 3rd edition, by W. Richard Stevens
+* [The Linux Programming Interface](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200), by Michael Kerrisk
 
 ##### Catalog Description
 
