@@ -17,10 +17,9 @@ Topic: CECS 326 SEC 03 Lecture Session
 Time: Jan 24, 2022 09:30 AM Pacific Time (US and Canada)
 
 Join Zoom Meeting
-https://csulb.zoom.us/j/83875749533?pwd=NjNraWIxSlNoTkc2UUtqVmpPQXI4QT09
-
+https://csulb.zoom.us/j/83875749533
 Meeting ID: 838 7574 9533
-Passcode: 936304
+Passcode: 
 
 ```
 
